@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @Apollo-kernel
 - 👀 I’m interested in robotics
-- 🌱 I’m currently learning electrical engineering and automatizaton
+- 🌱 I’m currently learning electrical engineering
 - 💞️ I’m looking to collaborate on robotics
 - 📫 How to reach me? By email：yuyang.apollo@gmail.com
 
