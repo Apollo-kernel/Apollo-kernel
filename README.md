@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 👋 Hi, I’m @Apollo-kernel
+- 👋 Hi, I’m Albert, a M.S. Electrical Engineering student at NYU Tandon School of Engineering
 - 👀 I’m interested in robotics
 - 🌱 I’m currently learning electrical engineering
 - 💞️ I’m looking to collaborate on robotics
