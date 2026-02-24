@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Albert, a M.S. Electrical Engineering student at NYU Tandon School of Engineering
 - 👀 I’m interested in Robotics, Hardware, Mechatronics, Power Electronics
-- 🌱 I’m currently learning Hardware Description Language (HDL)-Example: Verilog, SystemVerilog; Resonant Power Converters; Mechatronics
+- 🌱 I’m currently learning Hardware Description Language (HDL)-SystemVerilog & Xilinx Vivado / Vitis HLS; Resonant Power Converters; Mechatronics
 - 💞️ I’m looking to collaborate on robotics
 - 📫 How to reach me? By email：yuyang.apollo@gmail.com
 
