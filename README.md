@@ -8,7 +8,7 @@
 
  
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Apollo-kernel&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Apollo-kernel&theme=transparent)
 
 <!---
 Apollo-007/Apollo-007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
